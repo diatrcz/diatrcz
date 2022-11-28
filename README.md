@@ -1,5 +1,4 @@
-<h2 align="center">Hi 👋, I'm Lidia
-<img align="center" src="https://avatars.githubusercontent.com/u/100163235?v=4" alt="diatrcz" height="40" width="40" /></h2>
+<h2 align="center">Hi 👋, I'm Dia🌸</h2>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=diatrcz&theme=omni&hide_border=false&include_all_commits=false&count_private=false" height="200" width="500">
