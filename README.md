@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2 align="center">Hi 👋, I'm Lidia
+<a target="_blank" rel="noopener noreferrer"><img align="center" src="https://avatars.githubusercontent.com/u/100163235?v=4" alt="diatrcz" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;</h2>
 
 <!--
 **diatrcz/diatrcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
